@@ -1,1 +1,1 @@
-# Lung-Cancer-Prediction
+# Brian-MRI-Detection
